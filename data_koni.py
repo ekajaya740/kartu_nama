@@ -28,4 +28,4 @@ def data_capture(url,page=1):
     
     file.write("="*50+"\n")
     data_capture(link,page=page + 1)
-datanya = data_capture(get_url)
+data_capture(get_url)
