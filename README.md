@@ -1,2 +1,2 @@
 # KartuNama
-koni bali data untuk mencari ewek 
+Mencari kartu untuk nama
